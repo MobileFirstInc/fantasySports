@@ -12,5 +12,5 @@ Team MobileFirst created an elegant Mobile App controller for the pitch to Nativ
 On the request of Fandromeda CEO, we are not keeping the Source Code accesible publicly. 
 
 <img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/iphonexspacegrey_landscape.png" alt=" text" width="60%" />
-blob/master/iphonexspacegrey_landscape.png
-<img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/FandromedaDemo.mov" alt=" text" width="60%" />
+
+<img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/FandromedaDemo" alt=" text" width="60%" />
