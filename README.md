@@ -8,7 +8,7 @@ Fandromeda recently moved to Web-based application.
 Team MobileFirst created an elegant Mobile App controller for the pitch to Native App. 
 
 
-<img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/Mockup-Generated-by-Dunnnk (4).png" alt=" text" width="60%" />
+<img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/Mockup-Generated-by-Dunnnk(4).png" alt=" text" width="60%" />
 
 2 Engineers from MobileFirst developed this demo over 3 days period. 
 
