@@ -13,4 +13,5 @@ On the request of Fandromeda CEO, we are not keeping the Source Code accesible p
 
 <img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/iphonexspacegrey_landscape.png" alt=" text" width="60%" />
 
-<img src="https://raw.githubusercontent.com/arpandesai/fantasySports/master/FandromedaDemo" alt=" text" width="60%" />
+[![Watch the video](https://raw.githubusercontent.com/arpandesai/fantasySports/master/0.png)](https://youtu.be/lx_nQOLChKE)
+
