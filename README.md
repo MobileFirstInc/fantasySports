@@ -2,7 +2,14 @@
 
 MobileFirst created this demo for Fandromeda - Fantasy Sports App. 
 
-Website: https://fandromeda.com/
+Reference Website: https://fandromeda.com/
+
+# Contact for Mobile Application, MVP or Proof of Concepts
+
+Website: https://mobilefirst.in or https://mobilefirsthq.com
+
+Email: arpan at mobilefirst dot in
+
 
 Fandromeda recently moved to Web-based application. 
 Team MobileFirst created an elegant Mobile App controller for the pitch to Native App. 
